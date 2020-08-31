@@ -1,4 +1,4 @@
-print("Pick a number from 0 - 11")
+print("Pick a number from 0 - 13")
 score = int(input())
 if score > 10:
     print("WINNER!!!")
